@@ -3,7 +3,7 @@
 
 <h2> Introduction </h2>
 <p>
-I chose to do the topic on EDA and model building. Work can be tideaus with your own short-cut to make your work swiftly as posible. As simple as loading the data, checking your types to building models.
+I chose to do the topic on EDA and model building. Work can be tideaus, there are tons of libraries and syntax which a normal person won't be able to memorize. With your own short-cut work will become more easier. Even as simple as loading the data, checking your data types to building models will be a huge help on completing your work.
 </p>
 
 <h2> Data </h2>
