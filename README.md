@@ -31,5 +31,6 @@ For now I have my eyes on "Impact of Electronic Gadget on students performance" 
 
 <p>
 Click on the image to watch the video:
-[![EDA and Modeling](https://github.com/heinrickturingan/ADS-Assignment/blob/main/eda.png)](https://www.youtube.com/watch?v=20ZlnWVPoWI)
 </p>
+[![EDA and Modeling](https://github.com/heinrickturingan/ADS-Assignment/blob/main/eda.png)](https://www.youtube.com/watch?v=20ZlnWVPoWI)
+
