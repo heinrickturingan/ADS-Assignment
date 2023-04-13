@@ -11,11 +11,7 @@ I chose to do the topic on EDA and model building. Work can be tideaus with your
 [Early stage diabetes risk prediction dataset](https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
 
 <p> 
-
-</p>
-<p>
-I will continue my search and hope to find a dataset that will tickle my interest.
-For now I have my eyes on "Impact of Electronic Gadget on students performance" and "Sleep Efficiency Dataset".
+This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
 </p>
 
 
