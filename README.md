@@ -7,11 +7,10 @@ I chose to do the topic on EDA and model building. Work can be tideaus with your
 </p>
 
 <h2> Data </h2>
-[I'm an inline-style link](https://www.google.com)
 <p> 
-[Early stage diabetes risk prediction dataset](https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset/)
- [Early stage diabetes risk prediction dataset](https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
-EThis dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
+[Early stage diabetes risk prediction dataset](https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
+This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
+
 </p>
 <p>
 I will continue my search and hope to find a dataset that will tickle my interest.
