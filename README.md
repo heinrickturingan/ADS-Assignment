@@ -7,7 +7,7 @@ I chose to do the topic on EDA and model building. Work can be tideaus with your
 </p>
 
 <h2> Data </h2>
-[Early stage diabetes risk prediction dataset](https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
+[![Early stage diabetes risk prediction dataset]](https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
 <p> 
 
 </p>
