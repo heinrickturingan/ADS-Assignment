@@ -11,7 +11,7 @@ I am a student at NSCC taking Business Intelligence and Analytics attempting to 
 
 <h2> Data </h2>
 <p>
-[Early stage diabetes risk prediction dataset]https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
+[Early stage diabetes risk prediction dataset](https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
 Early stage diabetes risk prediction dataset
 It is always a challenge to me on choosing a Dataset to present. I've look at numerous sites like Kaggle, UCI Machine, Canada Opendata, Data.gov and a lot more to name. I'm thinking of choosing a dataset about the impact of gadget use to the performance of students, also a dataset about influence of one’s hobby on selecting a career. 
 </p>
