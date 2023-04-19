@@ -1,4 +1,4 @@
-# ADS-Assignment
+# Applied Data Science Projects
 
 
 <h2> Introduction </h2>
@@ -14,7 +14,15 @@ I chose to do the topic on EDA and model building. Work can be tideaus, there ar
 This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
 </p>
 
+<h2> Data </h2>
 
+Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
+
+
+<h3> About Dataset </h3>
+<p> 
+The dataset contains information about a group of test subjects and their sleep patterns. Each test subject is identified by a unique "Subject ID" and their age and gender are also recorded. The "Bedtime" and "Wakeup time" features indicate when each subject goes to bed and wakes up each day, and the "Sleep duration" feature records the total amount of time each subject slept in hours. The "Sleep efficiency" feature is a measure of the proportion of time spent in bed that is actually spent asleep. The "REM sleep percentage", "Deep sleep percentage", and "Light sleep percentage" features indicate the amount of time each subject spent in each stage of sleep. The "Awakenings" feature records the number of times each subject wakes up during the night. Additionally, the dataset includes information about each subject's caffeine and alcohol consumptions in the 24 hours prior to bedtime, their smoking status, and their exercise frequency.
+</p>
 
 <h2> Technologies used </h2>
 <ul>
