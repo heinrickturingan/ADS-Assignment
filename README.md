@@ -32,6 +32,16 @@ The dataset contains information about a group of test subjects and their sleep 
 [GitHub](https://github.com)
 
 <ul>
+  <li>[Python](https://www.python.org)</li>
+  <li>[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)</li>
+  <li>[Numpy](https://numpy.org/devdocs/index.html#)</li>
+  <li>[Pycaret](https://pycaret.gitbook.io/docs/)</li>
+  <li>[Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)</li>
+</ul>
+
+
+
+<ul>
   <li>[Python](https://www.python.org/)</li>
   <li>[Pandas](https://pandas.pydata.org/docs/user_guide/index.html)</li>
   <li>[Numpy](https://numpy.org/devdocs/index.html#)</li>
