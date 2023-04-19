@@ -33,7 +33,7 @@ The dataset contains information about a group of test subjects and their sleep 
 
 [Numpy](https://numpy.org/devdocs/index.html#)
 
-[Pycaret](https://pycaret.gitbook.io/docs/)
+[Pycaret](https://pycaret.gitbook.io/docs/) [|]
 [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
 
 <ul>
