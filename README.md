@@ -3,16 +3,9 @@
 
 <h2> Introduction </h2>
 <p>
-I chose to do the topic on EDA and model building. Work can be tideaus, there are tons of libraries and syntax which a normal person won't be able to memorize. With your own short-cut work will become more easier. Even as simple as loading the data, checking your data types to building models will be a huge help on completing your work.
+The goal of this project is to show on how to create model pipelines using different python libraries. The data that I chose is a Regression type dataset. Thus this will show my workflow or approach on building a regression pipeline.
 </p>
 
-<h2> Data </h2>
-
-[Early stage diabetes risk prediction dataset](https://archive-beta.ics.uci.edu/dataset/529/early+stage+diabetes+risk+prediction+dataset)
-
-<p> 
-This dataset contains the sign and symptpom data of newly diabetic or would be diabetic patient.
-</p>
 
 <h2> Data </h2>
 The data I used for the pipelines is from Kaggle website. The data is about the study of sleep efficiency and sleep patterns.<br>
