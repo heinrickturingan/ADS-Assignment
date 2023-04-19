@@ -12,10 +12,14 @@ The data I used for the pipelines is from Kaggle website. The data is about the 
 
 Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
 
+<h2> .ipynb </h2>
+
+[Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
 
 <h2> Technologies used </h2>
 
-[Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
+The notebook can be viewed and downloaded in [Jupyter Notebook Viewer](https://nbviewer.org/github/heinrickturingan/ADS-Assignment/blob/main/Pycaret_Pipeline_Sleep_Efficiency.ipynb)
+
 
 
 <h2> Walk-through video </h2>
