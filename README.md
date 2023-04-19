@@ -16,10 +16,12 @@ This dataset contains the sign and symptpom data of newly diabetic or would be d
 
 <h2> Data </h2>
 The data I used for the pipelines is from Kaggle website. The data is about the study of sleep efficiency and sleep patterns.<br>
+
 Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
 
 
 <h2> Technologies used </h2>
+
 [Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
 
 
