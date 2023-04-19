@@ -15,7 +15,7 @@ This dataset contains the sign and symptpom data of newly diabetic or would be d
 </p>
 
 <h2> Data </h2>
-The data I used for the pipelines is from Kaggle website. The data is about the study of sleep efficiency and sleep patterns.</br>
+The data I used for the pipelines is from Kaggle website. The data is about the study of sleep efficiency and sleep patterns.<br>
 Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
 
 
