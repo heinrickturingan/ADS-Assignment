@@ -16,6 +16,8 @@ Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datase
 
 The Pycaret Pipeline notebook can be viewed and downloaded in [Jupyter Notebook Viewer](https://nbviewer.org/github/heinrickturingan/ADS-Assignment/blob/main/Pycaret_Pipeline_Sleep_Efficiency.ipynb)
 
+The Sklearn Pipeline notebook can be viewed and downloaded in [Jupyter Notebook Viewer](https://nbviewer.org/github/heinrickturingan/ADS-Assignment/blob/main/Sklearn_Pipeline_Sleep_Efficiency.ipynb)
+
 <h2> Technologies used </h2>
 
 [Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
