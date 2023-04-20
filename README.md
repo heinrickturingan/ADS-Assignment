@@ -1,5 +1,7 @@
 # Applied Data Science - Pipelines Project
-
+<head>
+   	<script src="https://raw.githubusercontent.com/dacodmagagula/auto_target_blank/master/auto_target_blank.js"></script>
+</head>
 
 <h2> Introduction </h2>
 <p>
