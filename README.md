@@ -7,10 +7,11 @@ The goal of this project is to show on how to create model pipelines using diffe
 </p>
 
 
+
 <h2> Data </h2>
 The data I used for the pipelines is from Kaggle website. The data is about the study of sleep efficiency and sleep patterns.<br>
 
-Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency){target="_blank"}
+Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency){:target="_blank"}
 
 <h2> .ipynb </h2>
 
