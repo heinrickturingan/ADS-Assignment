@@ -20,7 +20,7 @@ The Sklearn Pipeline notebook can be viewed and downloaded in [Jupyter Notebook 
 
 <h2> Technologies used </h2>
 
-[Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [scikit-learn](https://scikit-learn.org/stable/)| [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
+[Python](https://www.python.org) | [Pandas](https://pandas.pydata.org/docs/user_guide/index.html) | [Numpy](https://numpy.org/devdocs/index.html#) | [Pycaret](https://pycaret.gitbook.io/docs/) | [Scikit-learn](https://scikit-learn.org/stable/)| [Yellowbrick](https://www.scikit-yb.org/en/latest/index.html)
 
 
 
