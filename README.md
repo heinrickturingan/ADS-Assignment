@@ -16,7 +16,7 @@ Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datase
 
 <h2> .ipynb </h2>
 
-The <b>Pycaret Pipeline</b> notebook can be viewed and downloaded in [Jupyter Notebook Viewer](https://nbviewer.org/github/heinrickturingan/ADS-Assignment/blob/main/Pycaret_Pipeline_Sleep_Efficiency.ipynb)
+The <b>Sleep Efficiency Study </b> notebook can be viewed in [Jupyter Notebook Viewer](https://nbviewer.org/github/heinrickturingan/DataExplore/blob/main/Sleep_Efficiency_Capstone_Project.ipynb)
 
 The <b>Sklearn Pipeline</b> notebook can be viewed and downloaded in [Jupyter Notebook Viewer](https://nbviewer.org/github/heinrickturingan/ADS-Assignment/blob/main/Sklearn_Pipeline_Sleep_Efficiency.ipynb)
 
