@@ -1,7 +1,4 @@
 # Applied Data Science - Pipelines Project
-<head>
-   	<script src="https://raw.githubusercontent.com/dacodmagagula/auto_target_blank/master/auto_target_blank.js"></script>
-</head>
 
 <h2> Introduction </h2>
 <p>
@@ -13,7 +10,7 @@ The goal of this project is to show on how to create model pipelines using diffe
 <h2> Data </h2>
 The data I used for the pipelines is from Kaggle website. The data is about the study of sleep efficiency and sleep patterns.<br>
 
-Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency){:target="_blank"}
+Click to view the data: [Sleep Efficiency Dataset](https://www.kaggle.com/datasets/equilibriumm/sleep-efficiency)
 
 
 
