@@ -2,7 +2,9 @@
 
 <h2> Introduction </h2>
 <p>
-The goal of this project is to show on how to create model pipelines using different [Python](https://www.python.org) 
+The goal of this project is to show on how to create model pipelines using different 
+  
+[Python](https://www.python.org) 
 
 libraries. The data that I chose is a Regression type dataset. Thus this will show my workflow or approach on building a regression pipeline.
 </p>
