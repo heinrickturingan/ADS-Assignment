@@ -33,5 +33,5 @@ The <b>Sklearn Pipeline</b> notebook can be viewed and downloaded in [Jupyter No
 Click on the image to watch the video:
 </p>
 
-[![EDA and Modeling](https://github.com/heinrickturingan/ADS-Assignment/blob/main/eda.png)](https://www.youtube.com/watch?v=20ZlnWVPoWI)
+[![EDA and Modeling](https://github.com/heinrickturingan/ADS-Assignment/blob/main/eda.png)](https://youtu.be/ghdjJo9NUNw)
 
